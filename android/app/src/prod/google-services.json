@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743866854758",
+    "project_id": "storyloom-ef151",
+    "storage_bucket": "storyloom-ef151.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743866854758:android:ea84ce65cea1b4f0fd6ca7",
+        "android_client_info": {
+          "package_name": "com.app.storyloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54mqfS_bAuHNW5C6OgLzSIVAbIHFsJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
